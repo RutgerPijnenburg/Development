@@ -1,0 +1,88 @@
+.Present {
+  background-color: #c6def1;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 5%;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  align-items: center;
+}
+
+.Present-First-Row,
+.Present-Second-Row,
+.Present-Third-Row {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.MDC,
+.CA,
+.US,
+.BE,
+.TR,
+.Design-Research,
+.Professional-Skills,
+.External,
+.Goals,
+.PIV {
+  background-color: #f2c6df;
+  border-radius: 30px;
+  flex: 1;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 100%;
+  text-align: center;
+  text-justify: distribute;
+  cursor: pointer;
+}
+
+.Present-Areas {
+  opacity: 0;
+  height: 0;
+  background-color: #c9e4de;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.MainArea {
+  padding: 5%;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#PIV {
+}
+
+.Row {
+  background-color: white;
+  flex: 1;
+  margin-bottom: 30px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.Row #2 {
+  background-color: black;
+}
+.Row {
+  background-color: #dbcdf0;
+}
+
+.Item p {
+  text-align: start;
+  height: 340px;
+  background-color: #faedcb;
+  width: 800px;
+  border-radius: 30px;
+  padding: 30px;
+}
