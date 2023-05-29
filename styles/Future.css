@@ -1,5 +1,5 @@
 .Future {
-  background-color: lightblue;
+  background-color: #f7d9c4;
   height: 600px;
   display: flex;
   flex-direction: column;
@@ -23,12 +23,12 @@
 .Plan,
 .Goals,
 .Electives,
-.Future-image2 {
-  background-color: white;
+.Future-image2,
+.Future-Items {
+  background-color: #f2c6df;
   border-radius: 30px;
   flex: 1;
   margin-left: 10px;
   margin-right: 10px;
   height: 100%;
-  text-align: center;
 }
