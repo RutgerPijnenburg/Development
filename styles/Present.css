@@ -63,6 +63,7 @@
 
 .Row {
   background-color: white;
+  background-color: #dbcdf0;
   flex: 1;
   margin-bottom: 30px;
   border-radius: 30px;
@@ -74,9 +75,6 @@
 .Row #2 {
   background-color: black;
 }
-.Row {
-  background-color: #dbcdf0;
-}
 
 .Item p {
   text-align: start;
@@ -85,4 +83,32 @@
   width: 800px;
   border-radius: 30px;
   padding: 30px;
+}
+
+.Item img {
+  text-align: start;
+  height: 340px;
+  background-color: #faedcb;
+  border-radius: 30px;
+  flex: 1;
+}
+
+.Row-Vertical {
+  background-color: #dbcdf0;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.Progress-Bar-Text {
+  width: 100%;
+  display: flex;
+}
+
+.Progress-Bar {
+  background-color: #faedcb;
+  width: 100%;
+  border-radius: 30px;
+  display: flex;
+  text-align: end;
 }
