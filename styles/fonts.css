@@ -18,51 +18,47 @@
   padding: 1%;
 }
 
-@media (max-width: 2000px) {
-  .MDC p,
-  .CA p,
-  .US p,
-  .BE p {
-    padding-top: 11.3%;
-    font-size: 22px;
-    font-weight: bold;
-  }
-  .Design-Research p,
-  .Professional-Skills p,
-  .External p,
-  .Goals p,
-  .PIV p,
-  .TR p {
-    padding-top: 8.5%;
-    font-size: 22px;
-    font-weight: bold;
-  }
+.MDC p,
+.CA p,
+.US p,
+.BE p {
+  padding-top: 11.3%;
+  font-size: 22px;
+  font-weight: bold;
+}
+.Design-Research p,
+.Professional-Skills p,
+.External p,
+.Goals p,
+.PIV p,
+.TR p {
+  padding-top: 8.5%;
+  font-size: 22px;
+  font-weight: bold;
 }
 
-@media (max-width: 1100px) {
-  .MDC p,
-  .CA p,
-  .BE p {
-    padding-top: 21%;
-    font-size: 17px;
-    font-weight: bold;
-  }
-  .TR p,
-  .Design-Research p,
-  .Professional-Skills p,
-  .External p,
-  .Goals p,
-  .PIV p {
-    padding-top: 19%;
-    font-size: 17px;
-    font-weight: bold;
-  }
-  .US p {
-    padding-top: 26%;
-    font-size: 17px;
-    font-weight: bold;
-  }
+/* .MDC p,
+.CA p,
+.BE p {
+  padding-top: 21%;
+  font-size: 17px;
+  font-weight: bold;
 }
+.TR p,
+.Design-Research p,
+.Professional-Skills p,
+.External p,
+.Goals p,
+.PIV p {
+  padding-top: 19%;
+  font-size: 17px;
+  font-weight: bold;
+}
+.US p {
+  padding-top: 26%;
+  font-size: 17px;
+  font-weight: bold;
+} */
 
 .Future p {
   display: inline-block;
